@@ -28,9 +28,8 @@
 ---
 
 ## 🎓 Credits
-
-This design is based on the work of **[Author Name]**.  
-Original project/tutorial: [link if available]
+  
+Original project/tutorial: (https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
 ---
 
