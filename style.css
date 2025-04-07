@@ -1,0 +1,78 @@
+@font-face {
+    font-family: Inter;
+    src: url("fonts/Inter-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url("fonts/Inter-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: Inter;
+    src: url("fonts/Inter-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal; 
+}
+
+body {
+    background-color: rgb(19, 18, 18);
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+img {
+    border-radius: 50%;
+    width: 110px;
+}
+
+main {
+    background-color: rgb(44, 42, 42);
+    color: white;
+    font-family: Inter;
+    text-align: center;
+    max-width: 375px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 12px;
+    font-size: 0.9em;
+    padding-bottom: 10px;
+    box-shadow: 3px 3px 10px rgb(10, 10, 10);
+}
+
+#city {
+    margin-top: 5px;
+    color: rgb(157, 235, 12);
+    font-weight: 600;
+}
+
+#quotation {
+    margin-top: 30px;
+}
+
+.button {
+    display: block;
+    padding: 15px;  
+    border-radius: 7px;
+    margin: 18px 0px;
+    background-color: rgb(61, 59, 59);
+    border: none;
+    color: white;
+    font-weight: 700;
+}
+
+.button:hover {
+    background-color: rgb(157, 235, 12);
+    color: black;
+}
+
+.button:active {
+    background-color: rgb(61, 59, 59);
+    color: white;
+}
