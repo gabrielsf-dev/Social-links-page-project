@@ -1,7 +1,7 @@
-# 🌐 Simple Portfolio (HTML & CSS)
+# 🔗 Social Links Page (HTML & CSS)
 
-> ⚠️ This is a **practice project** to improve my HTML and CSS skills.  
-> The layout is **based on an existing design** and is **not my original creation**.
+> ⚠️ This is a **practice project** made to improve my front-end skills.  
+> The layout and idea are **based on an existing design** and are **not originally mine**.
 
 ---
 
@@ -14,10 +14,10 @@
 
 ## 🧠 What I Practiced
 
-- Semantic HTML structure
-- CSS styling and layout techniques
-- Project folder organization (images, fonts, etc.)
-- (Optional) Responsive design basics
+- Building a simple landing page
+- Structuring social media links with HTML
+- Styling buttons and layout with CSS
+- Organizing assets (images, fonts, etc.)
 
 ---
 
@@ -28,20 +28,18 @@
 ---
 
 ## 🎓 Credits
-  
+
 Original project/tutorial: (https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
 ---
 
 ## 🚀 How to Run
 
-Just open the `index.html` file in your browser.
+Open the `index.html` file directly in your browser.
 
 ---
 
 ## 📌 Disclaimer
 
-This project is for **educational purposes only**.  
-All rights to the original design belong to the respective author.
-
----
+This is a **non-commercial educational project**.  
+All rights to the original design belong to their respective creator.
